@@ -1,0 +1,4 @@
+com\mycompany\memento\Client.class
+com\mycompany\business\Produto.class
+com\mycompany\memento\Zelador.class
+com\mycompany\business\MementoProduto.class
